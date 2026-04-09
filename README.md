@@ -73,11 +73,12 @@ This project was completed as part of an internship at **Synent Technologies**, 
 iris-data-visualization/
 │
 ├── iris_visualization.py
-├── iris_dataset.csv
 ├── images/
-│   ├── bar_chart.png
-│   ├── histogram.png
-│   ├── scatter_plot.png
+│   ├── chat1_bar.png
+│   ├── chart2_histogram.png
+│   ├── chart3_scatter_plot.png
+    ├── chart4_heatmap.png
+    ├── chart5_dashboard.png
 │
 └── README.md
 ```
